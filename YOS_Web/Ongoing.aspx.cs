@@ -7,11 +7,11 @@ using System.Web.UI.WebControls;
 
 namespace YOS_Web
 {
-	public partial class About : Page
+	public partial class Ongoing : Page
 	{
 		protected void Page_Load(object sender, EventArgs e)
 		{
-
+	
 		}
 	}
 }
