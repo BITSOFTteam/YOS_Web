@@ -13,9 +13,17 @@ namespace YOS_Web
 	{
 		protected void Page_Load(object sender, EventArgs e)
 		{
+			txb.Text = "로드";
 		}
 
+		protected void SqlDataSource1_Selecting(object sender, SqlDataSourceSelectingEventArgs e)
+		{
+
+		}
+
+		protected void GridView1_RowDeleting(object sender, GridViewDeleteEventArgs e)
+		{
+			txb.Text = "삭제 중";
+		}
 	}
-
-
 }
