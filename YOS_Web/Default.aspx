@@ -10,30 +10,18 @@
 
     <div class="row">
         <div class="col-md-4">
-            <h2>공지사항</h2>
-            <asp:XmlDataSource ID="XmlDataSource1" runat="server" DataFile="~/xmlDocumentData.xml"></asp:XmlDataSource>
-            <asp:Label ID="lblNotice" runat="server" Text="Label" ></asp:Label>
-            <p>
-                <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
-            </p>
+            <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 강사 체육대회 알림</h2>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 일시 : 2016년 4월 12일 화요일 12:00</p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;- 장소 : 비트캠프 지하층 강당 </p>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 준비물 : 몸과 마음</p>
+            <p>&nbsp;</p>
+            
         </div>
         <div class="col-md-4">
-            <h2>Get more libraries</h2>
-            <p>
-                NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.
-            </p>
-            <p>
-                <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301949">Learn more &raquo;</a>
-            </p>
-        </div>
-        <div class="col-md-4">
-            <h2>Web Hosting</h2>
-            <p>
-                You can easily find a web hosting company that offers the right mix of features and price for your applications.
-            </p>
-            <p>
-                <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301950">Learn more &raquo;</a>
-            </p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+
+            <p>안녕하십니까! 와이스토리 강사 여러분. 드디어 여러분이 고대하시던 강사 체육대회 일정이 확정되었습니다. 모두들 준비 잘 하시고 체육대회를 기쁜 마음으로 맞읍시다! 화이팅! </p>
         </div>
     </div>
 
